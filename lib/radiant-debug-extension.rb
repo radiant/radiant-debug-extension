@@ -1,0 +1,2 @@
+module RadiantDebugExtension
+end
